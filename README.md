@@ -40,7 +40,7 @@ mengikuti pelatihan Microsoft Excel. Beberapa informasi yang terkandung dalam da
 - Profit: Laba yang diperoleh dari penjualan produk setelah memperhitungkan biaya.
 
 #### **3. Process – Pembersihan dan Pemrosesan Data**
-Pada tahap ini, kita akan melakukan pembersihan data untuk memastikan bahwa data yang digunakan bebas dari kesalahan dan 
+Pada tahap ini, dilakukan pembersihan data untuk memastikan bahwa data yang digunakan bebas dari kesalahan dan 
 siap untuk dianalisis. Berikut adalah pembersihan dan pemrosesan data yang dilakukan:
 - Menghapus baris data yang hilang atau tidak relevan.
 - Menghapus duplikat data yang tercatat lebih dari satu kali.
