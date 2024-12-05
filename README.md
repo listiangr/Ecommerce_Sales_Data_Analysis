@@ -72,7 +72,7 @@ Proyek ini menggunakan metode berikut untuk analisis data penjualan:
    Berikut adalah hasil visualisasi dari data penjualan yang telah dianalisis.
 
 
-  ![Sales Dashboard](https://github.com/user-attachments/assets/81282a89-f32e-4c73-b044-ddf5c5f508a2)
+  ![Sales Dashboard](https://github.com/listiangr/Ecommerce_Sales_Data_Analysis_Using_Excel/blob/main/Sales%20Dashboard.png?row=true)
 
   
 
