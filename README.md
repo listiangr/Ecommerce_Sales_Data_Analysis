@@ -39,29 +39,40 @@ Beberapa pertanyaan bisnis yang ingin dijawab melalui analisis data ini:
 4. Produk apa saja yang memiliki penjualan tertinggi?
 
 ## **Metodologi**
-Proyek ini menggunakan metode berikut:
-1. **Collection**: Pengumpulan data penjualan dari platform MySkill dalam format Excel, yang mencakup informasi mengenai transaksi penjualan, pelanggan, dan produk.
-2. **Cleaning**: 
-- Menghapus baris data yang hilang atau tidak relevan.
-- Menghapus duplikat data yang tercatat lebih dari satu kali.
-- Mengonversi kolom tanggal menjadi format yang sesuai.
-- Mengonversi kolom "Sales" dan "Profit" menjadi mata uang dolar US.
-- Mengekstrak kolom "Order Date" menjadi kolom baru yaitu "Calender", "Month", dan "Year". 
-3. **Exploratory Data Analysis (EDA)**: 
-- **Analisis Deskriptif**: Menganalisis distribusi penjualan berdasarkan kategori produk, segmen pasar, dan lokasi untuk memahami bagaimana produk terjual.
-- **Trend Analysis**: Melihat tren penjualan per bulan untuk memahami pola musiman atau fluktuasi.
-- **Pivot Tables**: Membuat tabel pivot untuk merangkum total penjualan, jumlah produk terjual, dan profit berdasarkan produk, bulan, dan segmen pasar.
-- **Top 10 Produk**: Mengidentifikasi 10 produk dengan penjualan tertinggi berdasarkan data yang ada.
-- **Analisis Margin Laba**: Menghitung margin laba untuk setiap produk dan kategori untuk melihat produk mana yang paling menguntungkan.
-4. **Visualization**: 
-- **Dashboard Excel**: Membuat dashboard interaktif di Excel yang menunjukkan tren penjualan, produk terlaris, serta analisis berdasarkan bulan, kategori, dan segmen pasar.
-- **Grafik dan Visualisasi**: Menggunakan grafik garis dan batang untuk menunjukkan tren penjualan per bulan dan top 10 produk berdasarkan penjualan.
 
+Proyek ini menggunakan metode berikut untuk analisis data penjualan:
 
-  Berikut adalah hasil visualisasi dari data penjualan yang telah dianalisis.
+### 1. **Collection (Pengumpulan Data)**
+   - Pengumpulan data penjualan dilakukan dari platform MySkill dalam format Excel. Data yang dikumpulkan mencakup informasi mengenai transaksi penjualan, pelanggan, dan produk yang dijual.
+
+### 2. **Cleaning (Pembersihan Data)**
+   Proses pembersihan data dilakukan untuk memastikan kualitas dan konsistensi data. Langkah-langkah pembersihan meliputi:
+   - Menghapus baris data yang hilang atau tidak relevan.
+   - Menghapus duplikat data yang tercatat lebih dari satu kali.
+   - Mengonversi kolom tanggal menjadi format yang sesuai untuk analisis.
+   - Mengonversi kolom "Sales" dan "Profit" ke dalam mata uang dolar AS.
+   - Mengekstrak kolom "Order Date" untuk membuat kolom baru seperti "Calendar", "Month", dan "Year" untuk analisis lebih lanjut.
+
+### 3. **Exploratory Data Analysis (EDA)**
+   Pada tahap ini, analisis eksplorasi dilakukan untuk mendapatkan wawasan awal mengenai distribusi dan pola data. Beberapa teknik yang digunakan adalah:
+   
+   - **Analisis Deskriptif**: Menganalisis distribusi penjualan berdasarkan kategori produk, segmen pasar, dan lokasi untuk memahami bagaimana produk terjual di berbagai dimensi.
+   - **Trend Analysis (Analisis Tren)**: Menganalisis tren penjualan per bulan untuk memahami pola musiman atau fluktuasi penjualan sepanjang waktu.
+   - **Pivot Tables (Tabel Pivot)**: Membuat tabel pivot untuk merangkum total penjualan, jumlah produk terjual, dan laba berdasarkan produk, bulan, dan segmen pasar.
+   - **Top 10 Produk**: Mengidentifikasi 10 produk dengan penjualan tertinggi berdasarkan data yang ada, yang dapat memberikan wawasan mengenai produk yang paling diminati oleh pelanggan.
+   - **Analisis Margin Laba**: Menghitung margin laba untuk setiap produk dan kategori untuk mengetahui produk mana yang paling menguntungkan bagi perusahaan.
+
+### 4. **Visualization (Visualisasi Data)**
+   Untuk memudahkan pemahaman hasil analisis, visualisasi data digunakan melalui berbagai cara:
+   
+   - **Dashboard Excel**: Membuat dashboard interaktif di Excel yang menunjukkan tren penjualan, produk terlaris, serta analisis berdasarkan bulan, kategori, dan segmen pasar. Ini memungkinkan pemangku kepentingan untuk melihat gambaran umum yang jelas dan mudah dipahami.
+   - **Grafik dan Visualisasi**: Menggunakan grafik garis dan batang untuk menunjukkan tren penjualan per bulan dan menampilkan 10 produk terlaris berdasarkan penjualan. Grafik ini membantu untuk menampilkan data secara visual sehingga lebih mudah menganalisis perubahan dan pola penjualan.
+
+   Berikut adalah hasil visualisasi dari data penjualan yang telah dianalisis.
 
 
   ![Sales Dashboard](https://github.com/user-attachments/assets/81282a89-f32e-4c73-b044-ddf5c5f508a2)
+
   
 
 ## **Insight**
@@ -80,4 +91,3 @@ Berdasarkan hasil analisis, berikut adalah beberapa rekomendasi:
 
 ## **Conclusion**
 Proyek ini memberikan wawasan yang berharga mengenai faktor-faktor yang memengaruhi penjualan dan margin laba perusahaan. Dengan menganalisis tren penjualan, produk yang menguntungkan, serta segmen pasar, perusahaan dapat membuat keputusan yang lebih baik untuk meningkatkan strategi pemasaran dan pengelolaan stok. Berdasarkan temuan analisis, perusahaan dapat mengambil langkah-langkah strategis untuk memaksimalkan pertumbuhan penjualan dan margin laba.
-
