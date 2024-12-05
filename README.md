@@ -78,17 +78,19 @@ Proyek ini menggunakan metode berikut untuk analisis data penjualan:
 
 ## **Insight**
 Beberapa wawasan yang ditemukan dari analisis data penjualan:
-1. Penjualan lebih tinggi pada kategori **Technology**, dengan produk seperti **Canon imageCLASS 2200** memberikan margin keuntungan tinggi.
-2. Bulan **September** mencatat penjualan dan profit margin tertinggi, menunjukkan potensi peningkatan penjualan pada bulan tersebut.
-3. Produk dengan margin keuntungan tinggi cenderung memiliki volume penjualan yang lebih rendah.
+1. Penjualan mengalami fluktuasi sepanjang tahun. Bulan dengan penjualan tertinggi adalah November ($352,461), diikuti oleh Desember ($325,294), sedangkan bulan dengan penjualan terendah adalah Januari ($94,925).
+2. Margin keuntungan (profit margin) cenderung berada di kisaran 10-17%, dengan margin tertinggi pada bulan Februari (17%).
+3. Segmen Consumer menyumbang setengah dari total penjualan (50%, $1,161,401), diikuti oleh Corporate (31%, $706,146) dan Home Office (19%, $429,653).
+4. Produk dengan kontribusi penjualan terbesar adalah Canon imageCLASS 2200 Advanced Copier ($61,600), jauh melebihi produk lainnya.
+5. Produk-produk lain dalam daftar top 10 sebagian besar adalah alat kantor seperti mesin binding, printer, dan kursi kerja.
 
 ## **Recommendation**
 Berdasarkan hasil analisis, berikut adalah beberapa rekomendasi:
-1. **Fokus pada Promo Segmen Home Office**: Memperkuat promosi pada produk **Canon imageCLASS 2200** dan produk serupa untuk meningkatkan penjualan di segmen **Home Office**.
-2. **Tingkatkan Pemasaran di Bulan Februari**: Mengintensifkan pemasaran pada bulan **Februari** untuk memanfaatkan potensi peningkatan penjualan.
-3. **Optimalkan Produk Unggulan**: Menjaga stok dan strategi pemasaran produk dengan margin keuntungan tinggi untuk memaksimalkan profit.
-4. **Kampanye Diskon pada Produk dengan Penurunan Penjualan**: Menawarkan diskon untuk produk yang penjualannya menurun untuk merangsang pembelian.
-5. **Evaluasi Stok Berdasarkan Tren Penjualan**: Menyesuaikan stok produk berdasarkan permintaan dan tren penjualan untuk menghindari overstock atau kekurangan stok.
+1. Fokus pada strategi pemasaran intensif di bulan-bulan dengan penjualan rendah, seperti Januari dan Februari. Misalnya, melalui promosi awal tahun, diskon produk, atau bundling untuk meningkatkan daya tarik pelanggan.
+2. Karena segmen Consumer mendominasi penjualan, perlu dilakukan upaya untuk meningkatkan penetrasi ke segmen Corporate dan Home Office melalui penawaran produk atau layanan yang sesuai, seperti paket volume tinggi atau layanan purna jual.
+3. Mengkaji produk dengan profit margin rendah untuk mengidentifikasi peluang efisiensi biaya atau meningkatkan harga pada produk yang memiliki permintaan tinggi tetapi margin rendah.
+4. Memprioritaskan stok dan promosi untuk produk terlaris seperti Canon imageCLASS 2200 Advanced Copier. Selain itu, dapat dipertimbangkan untuk memperkenalkan produk pelengkap untuk mendorong pembelian tambahan.
+5. Mengingat puncak penjualan terjadi pada November dan Desember, perusahaan dapat memaksimalkan momen ini dengan promosi akhir tahun, penawaran diskon, atau kampanye liburan untuk meningkatkan penjualan lebih lanjut.
 
 ## **Conclusion**
 Proyek ini memberikan wawasan yang berharga mengenai faktor-faktor yang memengaruhi penjualan dan margin laba perusahaan. Dengan menganalisis tren penjualan, produk yang menguntungkan, serta segmen pasar, perusahaan dapat membuat keputusan yang lebih baik untuk meningkatkan strategi pemasaran dan pengelolaan stok. Berdasarkan temuan analisis, perusahaan dapat mengambil langkah-langkah strategis untuk memaksimalkan pertumbuhan penjualan dan margin laba.
