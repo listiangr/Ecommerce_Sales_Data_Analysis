@@ -1,2 +1,7 @@
+# Set language
 *.xlsx linguist-language=Excel
-**.xlsx linguist-language=Excel
+*.xlsm linguist-language=Excel
+
+# Register as binary files
+*.xlsx -crlf -diff -merge
+*.xlsm -crlf -diff -merge
