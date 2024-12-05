@@ -40,7 +40,7 @@ Beberapa pertanyaan bisnis yang ingin dijawab melalui analisis data ini:
 
 ## **Metodologi**
 
-Tools: Microsoft Excel
+Tools: Microsoft Excel   
 Proyek ini menggunakan metode berikut untuk analisis data penjualan:
 
 ### 1. **Collection (Pengumpulan Data)**
