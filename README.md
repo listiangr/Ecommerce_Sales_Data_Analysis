@@ -12,24 +12,24 @@ Tujuan dari proyek ini adalah untuk:
 
 ## Data Overview
 Data yang digunakan dalam proyek ini adalah data penjualan e-commerce yang mencakup informasi berikut:
-- **Order ID**: Nomor identifikasi pesanan
-- **Order Date**: Tanggal pemesanan produk
-- **Ship Date**: Tanggal pengiriman produk
-- **Ship Mode**: Metode pengiriman
-- **Customer ID**: Nomor identifikasi pelanggan
-- **Customer Name**: Nama pelanggan
-- **Segment**: Segmen pasar pelanggan (Consumer, Corporate, Home Office)
-- **Country**: Negara pelanggan
-- **City**: Kota pelanggan
-- **State**: Negara bagian pelanggan
-- **Region**: Wilayah geografis pelanggan
-- **Product ID**: Nomor identifikasi produk
-- **Category**: Kategori produk (Furniture, Office Supplies, Technology)
-- **Sub-Category**: Subkategori produk (Chairs, Tables, Binders)
-- **Sales**: Nilai penjualan produk dalam dolar
-- **Quantity**: Jumlah unit yang terjual
-- **Discount**: Diskon yang diberikan
-- **Profit**: Laba yang diperoleh dari penjualan produk
+- `Order ID`: Nomor identifikasi pesanan  
+- `Order Date`: Tanggal pemesanan produk  
+- `Ship Date`: Tanggal pengiriman produk  
+- `Ship Mode`: Metode pengiriman  
+- `Customer ID`: Nomor identifikasi pelanggan  
+- `Customer Name`: Nama pelanggan  
+- `Segment`: Segmen pasar pelanggan (Consumer, Corporate, Home Office)  
+- `Country`: Negara pelanggan  
+- `City`: Kota pelanggan  
+- `State`: Negara bagian pelanggan  
+- `Region`: Wilayah geografis pelanggan  
+- `Product ID`: Nomor identifikasi produk  
+- `Category`: Kategori produk (Furniture, Office Supplies, Technology)  
+- `Sub-Category`: Subkategori produk (Chairs, Tables, Binders)  
+- `Sales`: Nilai penjualan produk dalam dolar  
+- `Quantity`: Jumlah unit yang terjual  
+- `Discount`: Diskon yang diberikan  
+- `Profit`: Laba yang diperoleh dari penjualan produk  
 
 ## Business Questions
 Beberapa pertanyaan bisnis yang ingin dijawab melalui analisis data ini:
